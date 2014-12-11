@@ -1,3 +1,5 @@
+http://i6.cims.nyu.edu/~spv224/database_assignments.html
+
  PHP Optional Assignment (Extra Credit) - Online Quiz
 
 Pick a topic (e.g. your favorite sport, current movies, or any other category of trivia you can think of!)
